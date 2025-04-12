@@ -14,5 +14,5 @@ class SecretStash:
 stash = SecretStash()
 
 # Take chocolates until none are left
-for _ in range(12):  # Attempt to take more chocolates than available
+for _ in range(20):  # Attempt to take more chocolates than available
     stash.take_chocolate()  # Properly indented
