@@ -1,0 +1,11 @@
+__/pycache__
+*.py[cod]
+*.pyo
+*.pyd
+__pycache__/*
+*.egg-info/*
+*.egg/*
+*.whl/*
+*.dist-info/*
+
+# Jupyter Notebook checkpoints
